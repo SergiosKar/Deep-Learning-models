@@ -4,7 +4,7 @@ Implementation of basic deep learning models using tensorflow and keras
 
 -Convolutional Neural Network
 
--Recurrent(LSTM, GRU,Biderectional LSTM)
+-Recurrent(LSTM, GRU,Bidirectional LSTM)
 
 -Convolutional LSTM
 
@@ -16,5 +16,5 @@ Implementation of basic deep learning models using tensorflow and keras
 
 -Generative adversarial network
 
--Differentiable Neural Computers
+-Differentiable Neural Computer
 
