@@ -6,6 +6,10 @@ Implementation of basic deep learning models using tensorflow and keras
 
 -Recurrent(LSTM, GRU,Biderectional LSTM)
 
+-Convolutional LSTM
+
+-Residual Network
+
 -Autoencoder
 
 -Variational AutoEncoder
