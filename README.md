@@ -18,3 +18,17 @@ Implementation of basic deep learning models using tensorflow and keras
 
 -Differentiable Neural Computer
 
+-Q table
+
+-Policy Based Algorithm
+
+-Q Network
+
+-Deep Q Network
+
+-Double DQN
+
+
+
+
+
