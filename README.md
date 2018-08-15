@@ -28,6 +28,8 @@ Implementation of basic deep learning models using tensorflow and keras
 
 -Double DQN
 
+-Neural Arithmetic Logic Unit
+
 
 
 
